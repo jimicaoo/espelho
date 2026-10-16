@@ -65,19 +65,6 @@
     "icon_key": ""
   },
   {
-    "name": "kstuff fpkg dr",
-    "filename": "kstuff-fpkg-dr_v1.13test6.elf",
-    "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/kstuff-fpkg-dr_v1.13test6.elf",
-    "source": "",
-    "source_direct": "",
-    "description": "",
-    "last_update": "",
-    "version": "v1.13test6",
-    "category": "",
-    "checksum": "",
-    "icon_key": ""
-  },
-  {
     "name": "nanoDNS",
     "filename": "nanoDNS_v0.4.elf",
     "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/nanoDNS_v0.4.elf",
