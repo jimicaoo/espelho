@@ -52,14 +52,14 @@
     "icon_key": ""
   },
   {
-    "name": "game-compressor_v1.0.4",
+    "name": "game compressor",
     "filename": "game-compressor_v1.0.4.elf",
     "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/game-compressor_v1.0.4.elf",
-    "source": "",
+    "source": "https://github.com/juma-sayeh/PS5-Game-Compressor/releases/",
     "source_direct": "",
     "description": "",
     "last_update": "",
-    "version": "",
+    "version": "v1.0.4",
     "category": "",
     "checksum": "",
     "icon_key": ""
