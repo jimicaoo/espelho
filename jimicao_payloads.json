@@ -1,13 +1,13 @@
 [
   {
-    "name": "Host-PSM-Offline-Installer-v1.1.0",
+    "name": "Host PSM Offline Installer",
     "filename": "Host-PSM-Offline-Installer-v1.1.0.elf",
     "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/Host-PSM-Offline-Installer-v1.1.0.elf",
     "source": "",
     "source_direct": "",
     "description": "",
     "last_update": "",
-    "version": "",
+    "version": "v1.1.0",
     "category": "",
     "checksum": "",
     "icon_key": ""
