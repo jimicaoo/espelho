@@ -159,8 +159,8 @@
     {
       "id": "ps5-self-pager-full-system",
       "name": "PS5 Self Pager - Full System",
-      "filename": "ps5-self-pager-full-system.elf",
-      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/ps5-self-pager-full-system.elf",
+      "filename": "ps5-self-pager-full-system_v1.2.elf",
+      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/ps5-self-pager-full-system_v1.2.elf",
       "source": "https://github.com/idlesauce/ps5-self-pager/releases",
       "source_direct": "https://github.com/idlesauce/ps5-self-pager/releases/download/v1.2/ps5-self-pager-full-system.elf",
       "version": "v1.2",
