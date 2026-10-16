@@ -56,10 +56,10 @@
       "version": "v0.4"
     },
     {
-      "id": "pegasus dl",
+      "id": "pegasusdl",
       "name": "Pegasus dl",
-      "filename": "pegasus_dl.elf",
-      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/pegasus_dl.elf",
+      "filename": "pegasus_dl_v1.11.0.elf",
+      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/pegasus_dl_v1.11.0.elf",
       "source": "https://github.com/pegasus-ps5/pegasus-dl/releases/",
       "source_direct": "https://github.com/pegasus-ps5/pegasus-dl/releases/download/v1.11.0/pegasus_dl.elf",
       "version": "v1.11.0",
