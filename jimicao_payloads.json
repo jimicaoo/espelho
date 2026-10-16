@@ -83,6 +83,126 @@
       "filename": "kstuff-fpkg-1.13-dr-test6.elf",
       "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/kstuff-fpkg-1.13-dr-test6.elf",
       "version": "1.13-dr-test6"
+    },
+    {
+      "id": "ProsperoMgr",
+      "name": "ProsperoMgr",
+      "filename": "ProsperoMgr.elf",
+      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/ProsperoMgr.elf",
+      "source": "https://github.com/notmaj0r/ProsperoMgr/releases",
+      "source_direct": "https://github.com/notmaj0r/ProsperoMgr/releases/download/v1.1/ProsperoMgr.elf",
+      "version": "v1.1",
+      "last_update": "2026-09-28",
+      "checksum": "e7a6bb544adb2fb2a61aa9cc83b0ad15f70b32d7511a3de0f1fb88812f11983c",
+      "author": "notmaj0r"
+    },
+    {
+      "id": "ps51360",
+      "name": "ps51360",
+      "filename": "Host-PSM-ReLapse-v1.4.0-instala-host-en.elf",
+      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/Host-PSM-ReLapse-v1.4.0-instala-host-en.elf",
+      "source": "https://github.com/ps4macedo/ps51360/releases",
+      "source_direct": "https://github.com/ps4macedo/ps51360/releases/download/relapse-v1.4.0/Host-PSM-ReLapse-v1.4.0-instala-host-en.elf",
+      "version": "relapse-v1.4.0",
+      "last_update": "2026-10-05",
+      "checksum": "4691127b390b69c0156b38251e77606b36804f6370aeb3479a6f404919872420",
+      "author": "ps4macedo"
+    },
+    {
+      "id": "ps51360",
+      "name": "ps51360",
+      "filename": "Host-PSM-ReLapse-v1.4.0-instala-host-pt.elf",
+      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/Host-PSM-ReLapse-v1.4.0-instala-host-pt.elf",
+      "source": "https://github.com/ps4macedo/ps51360/releases",
+      "source_direct": "https://github.com/ps4macedo/ps51360/releases/download/relapse-v1.4.0/Host-PSM-ReLapse-v1.4.0-instala-host-pt.elf",
+      "version": "relapse-v1.4.0",
+      "last_update": "2026-10-05",
+      "checksum": "726d32786771db15b4f107ad92bba4330f3139b3e02b78d33695086341b22ca8",
+      "author": "ps4macedo"
+    },
+    {
+      "id": "ps5-webkit-autoloader",
+      "name": "ps5-webkit-autoloader",
+      "filename": "webkit-autoloader-installer_v0.6.1.elf",
+      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/webkit-autoloader-installer_v0.6.1.elf",
+      "source": "https://github.com/itsPLK/ps5-webkit-autoloader/releases",
+      "source_direct": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/download/v0.6.1/webkit-autoloader-installer_v0.6.1.elf",
+      "version": "v0.6.1",
+      "last_update": "2026-10-08",
+      "checksum": "f662c75a502e4f1bc41b055dcb490625f8222c499ce437dc80f439a3a279e93f",
+      "author": "itsPLK"
+    },
+    {
+      "id": "LegacyJB",
+      "name": "LegacyJB",
+      "filename": "LegacyJB.elf",
+      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/LegacyJB.elf",
+      "source": "https://github.com/Phoenixx1202/LegacyJB/releases",
+      "source_direct": "https://github.com/Phoenixx1202/LegacyJB/releases/download/1.2.1/LegacyJB.elf",
+      "version": "1.2.1",
+      "last_update": "2026-09-29",
+      "checksum": "7633372f39a7a6e460f3990b02cd07026f4e5591aefd2509f8c6338f03b8440b",
+      "author": "Phoenixx1202"
+    },
+    {
+      "id": "elf-arsenal",
+      "name": "elf-arsenal",
+      "filename": "elf-arsenal.elf",
+      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/elf-arsenal.elf",
+      "source": "https://github.com/aloksaurabh/elf-arsenal/releases",
+      "source_direct": "https://github.com/aloksaurabh/elf-arsenal/releases/download/v1.6.21/elf-arsenal.elf",
+      "version": "v1.6.21",
+      "last_update": "2026-06-18",
+      "checksum": "cec800889364e4e8a4586989f27a1e31717b3b384683386b88deef9c78bc50dd",
+      "author": "aloksaurabh"
+    },
+    {
+      "id": "ps5-self-pager",
+      "name": "ps5-self-pager",
+      "filename": "ps5-self-pager-full-system.elf",
+      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/ps5-self-pager-full-system.elf",
+      "source": "https://github.com/idlesauce/ps5-self-pager/releases",
+      "source_direct": "https://github.com/idlesauce/ps5-self-pager/releases/download/v1.2/ps5-self-pager-full-system.elf",
+      "version": "v1.2",
+      "last_update": "2026-06-09",
+      "checksum": "fb498d4112611619150281e0c44afbd09f144c09eaca3ab3f5b306b39450d13a",
+      "author": "idlesauce"
+    },
+    {
+      "id": "ps5-self-pager",
+      "name": "ps5-self-pager",
+      "filename": "ps5-self-pager-game.elf",
+      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/ps5-self-pager-game.elf",
+      "source": "https://github.com/idlesauce/ps5-self-pager/releases",
+      "source_direct": "https://github.com/idlesauce/ps5-self-pager/releases/download/v1.2/ps5-self-pager-game.elf",
+      "version": "v1.2",
+      "last_update": "2026-06-09",
+      "checksum": "73d94fea5de9086cac26385c117a0b3098890c447d67536877fb7b51c9145aac",
+      "author": "idlesauce"
+    },
+    {
+      "id": "ps5-self-pager",
+      "name": "ps5-self-pager",
+      "filename": "ps5-self-pager-shellcore.elf",
+      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/ps5-self-pager-shellcore.elf",
+      "source": "https://github.com/idlesauce/ps5-self-pager/releases",
+      "source_direct": "https://github.com/idlesauce/ps5-self-pager/releases/download/v1.2/ps5-self-pager-shellcore.elf",
+      "version": "v1.2",
+      "last_update": "2026-06-09",
+      "checksum": "2b500bc356b5bcfca5c3e5187bcec0a37c80ed05e39348b8f06bd2e5a6f3342b",
+      "author": "idlesauce"
+    },
+    {
+      "id": "ps5-self-pager",
+      "name": "ps5-self-pager",
+      "filename": "ps5-self-pager-system-common-lib.elf",
+      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/ps5-self-pager-system-common-lib.elf",
+      "source": "https://github.com/idlesauce/ps5-self-pager/releases",
+      "source_direct": "https://github.com/idlesauce/ps5-self-pager/releases/download/v1.2/ps5-self-pager-system-common-lib.elf",
+      "version": "v1.2",
+      "last_update": "2026-06-09",
+      "checksum": "a86c3e69ed38656310b41af4f9221bdb2264ff4daf93fb4c2515fd54a216b701",
+      "author": "idlesauce"
     }
   ]
 }
