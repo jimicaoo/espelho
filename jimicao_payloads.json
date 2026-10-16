@@ -193,8 +193,8 @@
       "author": "idlesauce"
     },
     {
-      "id": "ps5-self-pager",
-      "name": "ps5-self-pager",
+      "id": "ps5-self-pager-system-common-lib",
+      "name": "PS5 Self Pager - Common Lib",
       "filename": "ps5-self-pager-system-common-lib.elf",
       "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/ps5-self-pager-system-common-lib.elf",
       "source": "https://github.com/idlesauce/ps5-self-pager/releases",
