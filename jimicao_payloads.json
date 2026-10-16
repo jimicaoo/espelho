@@ -40,8 +40,8 @@
       "version": "v2.0.6"
     },
     {
-      "id": "game compressor",
-      "name": "game compressor",
+      "id": "gamecompressor",
+      "name": "Game Compressor",
       "filename": "game-compressor_v1.0.4.elf",
       "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/game-compressor_v1.0.4.elf",
       "source": "https://github.com/juma-sayeh/PS5-Game-Compressor/releases/",
