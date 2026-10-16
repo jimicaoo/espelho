@@ -86,9 +86,9 @@
     },
     {
       "id": "ProsperoMgr",
-      "name": "ProsperoMgr",
-      "filename": "ProsperoMgr.elf",
-      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/ProsperoMgr.elf",
+      "name": "Prospero Manager",
+      "filename": "ProsperoMgr_v1.1.elf",
+      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/ProsperoMgr_v1.1.elf",
       "source": "https://github.com/notmaj0r/ProsperoMgr/releases",
       "source_direct": "https://github.com/notmaj0r/ProsperoMgr/releases/download/v1.1/ProsperoMgr.elf",
       "version": "v1.1",
