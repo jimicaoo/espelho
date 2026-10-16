@@ -39,14 +39,14 @@
     "icon_key": ""
   },
   {
-    "name": "apr_emu_updater_v2.0.6",
+    "name": "apr emu updater",
     "filename": "apr_emu_updater_v2.0.6.elf",
     "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/apr_emu_updater_v2.0.6.elf",
-    "source": "",
+    "source": "https://github.com/tsuramatsu1/apr-emu-updater/releases",
     "source_direct": "",
     "description": "",
     "last_update": "",
-    "version": "",
+    "version": "v2.0.6",
     "category": "",
     "checksum": "",
     "icon_key": ""
