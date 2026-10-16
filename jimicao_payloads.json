@@ -181,8 +181,8 @@
       "author": "idlesauce"
     },
     {
-      "id": "ps5-self-pager",
-      "name": "ps5-self-pager",
+      "id": "ps5-self-pager-shellcore",
+      "name": "PS5 Self Pager - Shell Core",
       "filename": "ps5-self-pager-shellcore.elf",
       "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/ps5-self-pager-shellcore.elf",
       "source": "https://github.com/idlesauce/ps5-self-pager/releases",
