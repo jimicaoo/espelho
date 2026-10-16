@@ -146,9 +146,9 @@
     },
     {
       "id": "elf-arsenal",
-      "name": "elf-arsenal",
-      "filename": "elf-arsenal.elf",
-      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/elf-arsenal.elf",
+      "name": "Elf Arsenal",
+      "filename": "elf-arsenal_v1.6.21.elf",
+      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/elf-arsenal_v1.6.21.elf",
       "source": "https://github.com/aloksaurabh/elf-arsenal/releases",
       "source_direct": "https://github.com/aloksaurabh/elf-arsenal/releases/download/v1.6.21/elf-arsenal.elf",
       "version": "v1.6.21",
