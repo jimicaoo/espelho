@@ -3,7 +3,7 @@
   "icons_url": "https://raw.githubusercontent.com/jimicaoo/espelho/refs/heads/main/icons.json",
   "payloads": [
     {
-      "id": "hostpsmofflineinstaller",
+      "id": "host-psm-offline-installer",
       "name": "Host PSM Offline Installer",
       "filename": "Host-PSM-Offline-Installer-v1.1.0.elf",
       "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/Host-PSM-Offline-Installer-v1.1.0.elf",
