@@ -21,10 +21,10 @@
       "checksum": "e85fd63b705498488f39c09c9aea6f9fa22e0df2e932865de49a8cedf25172d5"
     },
     {
-      "id": "OnionHEN",
+      "id": "onionhen",
       "name": "OnionHEN",
-      "filename": "OnionHEN.elf",
-      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/OnionHEN.elf",
+      "filename": "OnionHEN_v0.9.0.elf",
+      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/OnionHEN_v0.9.0.elf",
       "source": "https://github.com/aydencharles/onionHEN/releases/",
       "source_direct": "https://github.com/aydencharles/onionHEN/releases/download/v0.9.0/OnionHEN.elf",
       "version": "v0.9.0",
