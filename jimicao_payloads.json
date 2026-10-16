@@ -104,14 +104,14 @@
     "icon_key": ""
   },
   {
-    "name": "pldmgr_v0.5.2",
+    "name": "payload manager",
     "filename": "pldmgr_v0.5.2.elf",
     "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/pldmgr_v0.5.2.elf",
-    "source": "",
+    "source": "https://github.com/itsPLK/ps5-payload-manager/releases",
     "source_direct": "",
     "description": "",
     "last_update": "",
-    "version": "",
+    "version": "v0.5.2",
     "category": "",
     "checksum": "",
     "icon_key": ""
