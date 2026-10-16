@@ -169,8 +169,8 @@
       "author": "idlesauce"
     },
     {
-      "id": "ps5-self-pager",
-      "name": "ps5-self-pager",
+      "id": "ps5-self-pager-game",
+      "name": "PS5 Self Pager - Game",
       "filename": "ps5-self-pager-game.elf",
       "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/ps5-self-pager-game.elf",
       "source": "https://github.com/idlesauce/ps5-self-pager/releases",
