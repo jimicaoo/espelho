@@ -69,10 +69,13 @@
     {
       "id": "payload manager2",
       "name": "payload manager",
-      "filename": "pldmgr_v0.5.2.elf",
-      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/pldmgr_v0.5.2.elf",
+      "filename": "pldmgr_v0.6.1.elf",
+      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/pldmgr_v0.6.1.elf",
       "source": "https://github.com/itsPLK/ps5-payload-manager/releases",
-      "version": "v0.5.2"
+      "source_direct": "https://github.com/itsPLK/ps5-payload-manager/releases/download/v0.6.1/pldmgr_v0.6.1.elf",
+      "version": "v0.6.1",
+      "last_update": "2026-10-14",
+      "checksum": "5165cbe4c13360828bd0f5d558cdbb9e2d55b0660b1dc7f7a58d3f4ee9e23285"
     },
     {
       "id": "kstuff fpkg",
