@@ -134,9 +134,9 @@
     },
     {
       "id": "LegacyJB",
-      "name": "LegacyJB",
-      "filename": "LegacyJB.elf",
-      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/LegacyJB.elf",
+      "name": "Legacy JB",
+      "filename": "LegacyJB_v1.2.1.elf",
+      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/LegacyJB_v1.2.1.elf",
       "source": "https://github.com/Phoenixx1202/LegacyJB/releases",
       "source_direct": "https://github.com/Phoenixx1202/LegacyJB/releases/download/1.2.1/LegacyJB.elf",
       "version": "1.2.1",
