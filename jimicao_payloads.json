@@ -102,5 +102,18 @@
     "category": "",
     "checksum": "",
     "icon_key": ""
+  },
+  {
+    "name": "kstuff-1.13-fpkg-dr-test5",
+    "filename": "kstuff-1.13-fpkg-dr-test5.elf",
+    "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/kstuff-1.13-fpkg-dr-test5.elf",
+    "source": "",
+    "source_direct": "",
+    "description": "",
+    "last_update": "",
+    "version": "",
+    "category": "",
+    "checksum": "",
+    "icon_key": ""
   }
 ]
