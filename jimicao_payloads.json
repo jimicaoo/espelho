@@ -122,7 +122,7 @@
     },
     {
       "id": "ps5-webkit-autoloader",
-      "name": "ps5-webkit-autoloader",
+      "name": "PS5 Webkit Autoloader",
       "filename": "webkit-autoloader-installer_v0.6.1.elf",
       "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/webkit-autoloader-installer_v0.6.1.elf",
       "source": "https://github.com/itsPLK/ps5-webkit-autoloader/releases",
