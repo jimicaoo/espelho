@@ -78,7 +78,7 @@
     "icon_key": ""
   },
   {
-    "name": "nanoDNS_v0.4",
+    "name": "nanoDNS",
     "filename": "nanoDNS_v0.4.elf",
     "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/nanoDNS_v0.4.elf",
     "source": "https://github.com/drakmor/nanoDNS/releases/",
