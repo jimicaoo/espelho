@@ -91,14 +91,14 @@
     "icon_key": ""
   },
   {
-    "name": "pegasus_dl_v1.9.0",
+    "name": "pegasus dl",
     "filename": "pegasus_dl_v1.9.0.elf",
     "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/pegasus_dl_v1.9.0.elf",
-    "source": "",
+    "source": "https://github.com/pegasus-ps5/pegasus-dl/",
     "source_direct": "",
     "description": "",
     "last_update": "",
-    "version": "",
+    "version": "v1.9.0",
     "category": "",
     "checksum": "",
     "icon_key": ""
