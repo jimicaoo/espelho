@@ -48,8 +48,8 @@
       "version": "v1.0.4"
     },
     {
-      "id": "nanoDNS",
-      "name": "nanoDNS",
+      "id": "nanodns",
+      "name": "Nano DNS",
       "filename": "nanoDNS_v0.4.elf",
       "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/nanoDNS_v0.4.elf",
       "source": "https://github.com/drakmor/nanoDNS/releases/",
