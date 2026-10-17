@@ -205,6 +205,7 @@
       "source_direct": "https://github.com/idlesauce/ps5-self-pager/releases/download/v1.2/ps5-self-pager-shellcore.elf",
       "version": "v1.2",
       "last_update": "2026-06-09",
+      "category": "Sistema",
       "checksum": "2b500bc356b5bcfca5c3e5187bcec0a37c80ed05e39348b8f06bd2e5a6f3342b",
       "author": "idlesauce"
     },
