@@ -233,7 +233,7 @@
       "name": "A53 PPR Install 11.60",
       "filename": "a53_ppr_install_1160_20.09.elf",
       "url": "https://jimicaoo.github.io/espelho/atualizados/a53_ppr_install_1160_20.09.elf",
-      "description": "Instalador do payload PPR para firmware 11.60 em consoles A53",
+      "description": "Permite a leitura de pacotes PPR em modo plaintext sem autenticação no firmware do Cortex-A53 do PS5",
       "version": "v20.09",
       "category": "Sistema",
       "checksum": "984be03548aa849bcd06757acbed5575a3764532d858f4afaaa243b9f2a08bbf"
