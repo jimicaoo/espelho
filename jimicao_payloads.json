@@ -259,6 +259,13 @@
       "category": "Ferramentas",
       "checksum": "d74e4cd119b2bb1fd423f2f5b1c9a7f096b3e588c753af1ab48b983d56216a52",
       "author": "BestPig"
+    },
+    {
+      "id": "title-editor_v0.2",
+      "name": "title-editor_v0.2",
+      "filename": "title-editor_v0.2.elf",
+      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/title-editor_v0.2.elf",
+      "checksum": "3579a5795b43ae47f89fd3f9effbad09a3f0e6318d31e49ac9c5718142f73e8f"
     }
   ]
 }
