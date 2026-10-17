@@ -62,6 +62,7 @@
       "filename": "nanoDNS_v0.4.elf",
       "url": "https://jimicaoo.github.io/espelho/atualizados/nanoDNS_v0.4.elf",
       "source": "https://github.com/drakmor/nanoDNS/releases/",
+      "description": "Servidor DNS personalizado para bloquear atualizações e redirecionar conexões",
       "version": "0.4",
       "category": "Rede"
     },
