@@ -216,6 +216,7 @@
       "source_direct": "https://github.com/idlesauce/ps5-self-pager/releases/download/v1.2/ps5-self-pager-system-common-lib.elf",
       "version": "v1.2",
       "last_update": "2026-06-09",
+      "category": "Sistema",
       "checksum": "a86c3e69ed38656310b41af4f9221bdb2264ff4daf93fb4c2515fd54a216b701",
       "author": "idlesauce"
     }
