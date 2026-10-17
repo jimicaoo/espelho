@@ -226,10 +226,12 @@
       "author": "idlesauce"
     },
     {
-      "id": "a53_ppr_install_1160_20.09",
-      "name": "a53_ppr_install_1160_20.09",
+      "id": "a53_ppr_install_1160",
+      "name": "A53 PPR Install 11.60",
       "filename": "a53_ppr_install_1160_20.09.elf",
       "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/a53_ppr_install_1160_20.09.elf",
+      "version": "v20.09",
+      "category": "Sistema",
       "checksum": "984be03548aa849bcd06757acbed5575a3764532d858f4afaaa243b9f2a08bbf"
     }
   ]
