@@ -288,6 +288,18 @@
       "version": "v1.13.3",
       "category": "Ferramentas e utilitários",
       "checksum": "f6af4cef0d10a437e24337a4428023585375380e41e71eb8c2c6b03296adea40"
+    },
+    {
+      "id": "PS5VR",
+      "name": "PS5VR",
+      "filename": "ps5vr-helper.elf",
+      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/ps5vr-helper.elf",
+      "source": "https://github.com/theghostonline/PS5VR/releases",
+      "source_direct": "https://github.com/theghostonline/PS5VR/releases/download/v1.3.0/ps5vr-helper.elf",
+      "version": "v1.3.0",
+      "last_update": "2026-10-17",
+      "checksum": "540f29d7c648921172a2017369d926861b61131c07a9457ac4bb98fab0e49985",
+      "author": "theghostonline"
     }
   ]
 }
