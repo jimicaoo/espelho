@@ -1,6 +1,6 @@
 {
   "name": "Jimicao Payloads",
-  "icons_url": "https://jimicaoo.github.io/espelho/atualizados/icons.json",
+  "icons_url": "https://jimicaoo.github.io/espelho/icones.json",
   "payloads": [
     {
       "id": "host-psm-offline-installer",
