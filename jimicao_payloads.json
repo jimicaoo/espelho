@@ -41,6 +41,7 @@
       "filename": "apr_emu_updater_v2.0.6.elf",
       "url": "https://jimicaoo.github.io/espelho/atualizados/apr_emu_updater_v2.0.6.elf",
       "source": "https://github.com/tsuramatsu1/apr-emu-updater/releases",
+      "description": "Atualizador do emulador APR para manter a compatibilidade em dia",
       "version": "v2.0.6",
       "category": "Ferramentas e utilitários"
     },
