@@ -57,7 +57,8 @@
       "filename": "nanoDNS_v0.4.elf",
       "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/nanoDNS_v0.4.elf",
       "source": "https://github.com/drakmor/nanoDNS/releases/",
-      "version": "0.4"
+      "version": "0.4",
+      "category": "Rede"
     },
     {
       "id": "pegasus-dl",
