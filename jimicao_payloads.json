@@ -233,6 +233,18 @@
       "version": "v20.09",
       "category": "Sistema",
       "checksum": "984be03548aa849bcd06757acbed5575a3764532d858f4afaaa243b9f2a08bbf"
+    },
+    {
+      "id": "PS5_Browser_appCache_remove",
+      "name": "PS5_Browser_appCache_remove",
+      "filename": "Browser_appCache_remove.elf",
+      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/Browser_appCache_remove.elf",
+      "source": "https://github.com/Storm21CH/PS5_Browser_appCache_remove/releases",
+      "source_direct": "https://github.com/Storm21CH/PS5_Browser_appCache_remove/releases/download/v1.1/Browser_appCache_remove.elf",
+      "version": "v1.1",
+      "last_update": "2026-02-08",
+      "checksum": "ae90011e7528d261ca9bab125bdbf3c86fdfdd1910f73e16d7a069c3cd91fd30",
+      "author": "Storm21CH"
     }
   ]
 }
