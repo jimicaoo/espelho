@@ -64,5 +64,8 @@
   },
   "ps5-backpork_v0.1.elf": {
     "size": 99800
+  },
+  "title-editor_v0.2.elf": {
+    "size": 1358056
   }
 }
