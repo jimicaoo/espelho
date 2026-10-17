@@ -1,5 +1,6 @@
 {
   "name": "Jimicao Payloads",
+  "icons_url": "icones.json",
   "payloads": [
     {
       "id": "host-psm-offline-installer",
