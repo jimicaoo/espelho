@@ -1,1 +1,5 @@
-
+{
+  "icons": {
+    "ftp-server": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMjgnIGhlaWdodD0nMTI4Jz48cmVjdCB3aWR0aD0nMTI4JyBoZWlnaHQ9JzEyOCcgcng9JzI0JyBmaWxsPScjM2I4MmY2Jy8+PHRleHQgeD0nNjQnIHk9JzgyJyBmb250LWZhbWlseT0nQXJpYWwsc2Fucy1zZXJpZicgZm9udC1zaXplPSc0NCcgZm9udC13ZWlnaHQ9J2JvbGQnIGZpbGw9JyNmZmYnIHRleHQtYW5jaG9yPSdtaWRkbGUnPkZUUDwvdGV4dD48L3N2Zz4="
+  }
+}
