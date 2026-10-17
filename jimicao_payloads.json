@@ -142,6 +142,7 @@
       "source_direct": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/download/v0.6.1/webkit-autoloader-installer_v0.6.1.elf",
       "version": "v0.6.1",
       "last_update": "2026-10-08",
+      "category": "Webkit",
       "checksum": "f662c75a502e4f1bc41b055dcb490625f8222c499ce437dc80f439a3a279e93f",
       "author": "itsPLK"
     },
