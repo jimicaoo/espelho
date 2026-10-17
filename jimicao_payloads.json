@@ -192,6 +192,7 @@
       "source_direct": "https://github.com/idlesauce/ps5-self-pager/releases/download/v1.2/ps5-self-pager-game.elf",
       "version": "v1.2",
       "last_update": "2026-06-09",
+      "category": "Sistema",
       "checksum": "73d94fea5de9086cac26385c117a0b3098890c447d67536877fb7b51c9145aac",
       "author": "idlesauce"
     },
