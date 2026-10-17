@@ -246,6 +246,18 @@
       "category": "Utilitários",
       "checksum": "ae90011e7528d261ca9bab125bdbf3c86fdfdd1910f73e16d7a069c3cd91fd30",
       "author": "Storm21CH"
+    },
+    {
+      "id": "BackPork",
+      "name": "BackPork",
+      "filename": "ps5-backpork.elf",
+      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/ps5-backpork.elf",
+      "source": "https://github.com/BestPig/BackPork/releases",
+      "source_direct": "https://github.com/BestPig/BackPork/releases/download/0.1/ps5-backpork.elf",
+      "version": "0.1",
+      "last_update": "2026-04-30",
+      "checksum": "d74e4cd119b2bb1fd423f2f5b1c9a7f096b3e588c753af1ab48b983d56216a52",
+      "author": "BestPig"
     }
   ]
 }
