@@ -20,7 +20,7 @@
       "source_direct": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7-beta5fix1/shadowmountplus.elf",
       "version": "1.7-beta5fix1",
       "last_update": "2026-10-10",
-      "category": "Ferramentas",
+      "category": "Ferramentas e utilitários",
       "checksum": "e85fd63b705498488f39c09c9aea6f9fa22e0df2e932865de49a8cedf25172d5"
     },
     {
@@ -42,7 +42,7 @@
       "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/apr_emu_updater_v2.0.6.elf",
       "source": "https://github.com/tsuramatsu1/apr-emu-updater/releases",
       "version": "v2.0.6",
-      "category": "Ferramentas"
+      "category": "Ferramentas e utilitários"
     },
     {
       "id": "game-compressor",
@@ -83,7 +83,7 @@
       "source_direct": "https://github.com/itsPLK/ps5-payload-manager/releases/download/v0.6.1/pldmgr_v0.6.1.elf",
       "version": "v0.6.1",
       "last_update": "2026-10-14",
-      "category": "Ferramentas",
+      "category": "Ferramentas e utilitários",
       "checksum": "5165cbe4c13360828bd0f5d558cdbb9e2d55b0660b1dc7f7a58d3f4ee9e23285"
     },
     {
@@ -104,7 +104,7 @@
       "source_direct": "https://github.com/notmaj0r/ProsperoMgr/releases/download/v1.1/ProsperoMgr.elf",
       "version": "v1.1",
       "last_update": "2026-09-28",
-      "category": "Ferramentas",
+      "category": "Ferramentas e utilitários",
       "checksum": "e7a6bb544adb2fb2a61aa9cc83b0ad15f70b32d7511a3de0f1fb88812f11983c",
       "author": "notmaj0r"
     },
@@ -169,7 +169,7 @@
       "source_direct": "https://github.com/aloksaurabh/elf-arsenal/releases/download/v1.6.21/elf-arsenal.elf",
       "version": "v1.6.21",
       "last_update": "2026-06-18",
-      "category": "Ferramentas",
+      "category": "Ferramentas e utilitários",
       "checksum": "cec800889364e4e8a4586989f27a1e31717b3b384683386b88deef9c78bc50dd",
       "author": "aloksaurabh"
     },
@@ -256,7 +256,7 @@
       "source_direct": "https://github.com/BestPig/BackPork/releases/download/0.1/ps5-backpork.elf",
       "version": "0.1",
       "last_update": "2026-04-30",
-      "category": "Ferramentas",
+      "category": "Ferramentas e utilitários",
       "checksum": "d74e4cd119b2bb1fd423f2f5b1c9a7f096b3e588c753af1ab48b983d56216a52",
       "author": "BestPig"
     },
@@ -266,7 +266,7 @@
       "filename": "title-editor_v0.2.elf",
       "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/title-editor_v0.2.elf",
       "version": "v0.2",
-      "category": "Ferramentas",
+      "category": "Ferramentas e utilitários",
       "checksum": "3579a5795b43ae47f89fd3f9effbad09a3f0e6318d31e49ac9c5718142f73e8f"
     },
     {
@@ -275,7 +275,7 @@
       "filename": "garlic-savemgr_v1.13.3.elf",
       "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/garlic-savemgr_v1.13.3.elf",
       "version": "v1.13.3",
-      "category": "Ferramentas",
+      "category": "Ferramentas e utilitários",
       "checksum": "f6af4cef0d10a437e24337a4428023585375380e41e71eb8c2c6b03296adea40"
     }
   ]
