@@ -169,7 +169,7 @@
       "url": "https://jimicaoo.github.io/espelho/atualizados/elf-arsenal_v1.6.21.elf",
       "source": "https://github.com/aloksaurabh/elf-arsenal/releases",
       "source_direct": "https://github.com/aloksaurabh/elf-arsenal/releases/download/v1.6.21/elf-arsenal.elf",
-      "description": "Coleção de payloads ELF prontos para execução no console",
+      "description": "Utilitário do tipo \"tudo em um\" para PS5 que, implanta cheats, gerenciamento de saves, FTP, desbloqueio de troféus, ShadowMountPlus, kstuff-lite, loader de Linux, controle de ventoinha e fake sign-in NP.",
       "version": "v1.6.21",
       "last_update": "2026-06-18",
       "category": "Ferramentas e utilitários",
