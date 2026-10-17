@@ -70,5 +70,8 @@
   },
   "garlic-savemgr_v1.13.3.elf": {
     "size": 9741656
+  },
+  "ps5vr-helper.elf": {
+    "size": 119208
   }
 }
