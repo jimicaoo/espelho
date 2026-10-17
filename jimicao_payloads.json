@@ -270,10 +270,12 @@
       "checksum": "3579a5795b43ae47f89fd3f9effbad09a3f0e6318d31e49ac9c5718142f73e8f"
     },
     {
-      "id": "garlic-savemgr_v1.13.3",
-      "name": "garlic-savemgr_v1.13.3",
+      "id": "garlic-savemgr",
+      "name": "Garlic Save Maneger",
       "filename": "garlic-savemgr_v1.13.3.elf",
       "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/garlic-savemgr_v1.13.3.elf",
+      "version": "v1.13.3",
+      "category": "Ferramentas",
       "checksum": "f6af4cef0d10a437e24337a4428023585375380e41e71eb8c2c6b03296adea40"
     }
   ]
