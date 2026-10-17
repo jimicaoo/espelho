@@ -118,7 +118,7 @@
       "url": "https://jimicaoo.github.io/espelho/atualizados/Host-PSM-ReLapse-v1.4.0-instala-host-en.elf",
       "source": "https://github.com/ps4macedo/ps51360/releases",
       "source_direct": "https://github.com/ps4macedo/ps51360/releases/download/relapse-v1.4.0/Host-PSM-ReLapse-v1.4.0-instala-host-en.elf",
-      "description": "Host Relapse que precisa de uma conexão ativa, que pode não ter internet (firmwares de 7.00 a 13.60)",
+      "description": "English version of the Relapse host that requires an active connection, which may not have internet (firmware 7.00 to 13.60).",
       "version": "relapse-v1.4.0",
       "last_update": "2026-10-05",
       "category": "Webkit",
