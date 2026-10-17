@@ -124,6 +124,7 @@
       "source_direct": "https://github.com/ps4macedo/ps51360/releases/download/relapse-v1.4.0/Host-PSM-ReLapse-v1.4.0-instala-host-pt.elf",
       "version": "relapse-v1.4.0",
       "last_update": "2026-10-05",
+      "category": "Webkit",
       "checksum": "726d32786771db15b4f107ad92bba4330f3139b3e02b78d33695086341b22ca8",
       "author": "ps4macedo"
     },
