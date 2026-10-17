@@ -224,6 +224,13 @@
       "category": "Sistema",
       "checksum": "a86c3e69ed38656310b41af4f9221bdb2264ff4daf93fb4c2515fd54a216b701",
       "author": "idlesauce"
+    },
+    {
+      "id": "a53_ppr_install_1160_20.09",
+      "name": "a53_ppr_install_1160_20.09",
+      "filename": "a53_ppr_install_1160_20.09.elf",
+      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/a53_ppr_install_1160_20.09.elf",
+      "checksum": "984be03548aa849bcd06757acbed5575a3764532d858f4afaaa243b9f2a08bbf"
     }
   ]
 }
