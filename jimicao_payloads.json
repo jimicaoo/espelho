@@ -258,6 +258,7 @@
       "url": "https://jimicaoo.github.io/espelho/atualizados/ps5-backpork_v0.1.elf",
       "source": "https://github.com/BestPig/BackPork/releases",
       "source_direct": "https://github.com/BestPig/BackPork/releases/download/0.1/ps5-backpork.elf",
+      "description": "Permite que bibliotecas de sistema carregadas via sideload sejam injetadas em jogos de PS5",
       "version": "0.1",
       "last_update": "2026-04-30",
       "category": "Ferramentas e utilitários",
