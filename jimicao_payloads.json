@@ -235,10 +235,10 @@
       "checksum": "984be03548aa849bcd06757acbed5575a3764532d858f4afaaa243b9f2a08bbf"
     },
     {
-      "id": "PS5_Browser_appCache_remove",
-      "name": "PS5_Browser_appCache_remove",
-      "filename": "Browser_appCache_remove.elf",
-      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/Browser_appCache_remove.elf",
+      "id": "ps5_browser_appCache_remove",
+      "name": "PS5 Browser App Cache Remove",
+      "filename": "Browser_appCache_remove_v1.1.elf",
+      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/Browser_appCache_remove_v1.1.elf",
       "source": "https://github.com/Storm21CH/PS5_Browser_appCache_remove/releases",
       "source_direct": "https://github.com/Storm21CH/PS5_Browser_appCache_remove/releases/download/v1.1/Browser_appCache_remove.elf",
       "version": "v1.1",
