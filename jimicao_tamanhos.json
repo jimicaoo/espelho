@@ -58,5 +58,8 @@
   },
   "a53_ppr_install_1160_20.09.elf": {
     "size": 299856
+  },
+  "Browser_appCache_remove.elf": {
+    "size": 116296
   }
 }
