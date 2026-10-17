@@ -248,10 +248,10 @@
       "author": "Storm21CH"
     },
     {
-      "id": "BackPork",
+      "id": "backpork",
       "name": "BackPork",
-      "filename": "ps5-backpork.elf",
-      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/ps5-backpork.elf",
+      "filename": "ps5-backpork_v0.1.elf",
+      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/ps5-backpork_v0.1.elf",
       "source": "https://github.com/BestPig/BackPork/releases",
       "source_direct": "https://github.com/BestPig/BackPork/releases/download/0.1/ps5-backpork.elf",
       "version": "0.1",
