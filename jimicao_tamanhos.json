@@ -61,5 +61,8 @@
   },
   "Browser_appCache_remove_v1.1.elf": {
     "size": 116296
+  },
+  "ps5-backpork.elf": {
+    "size": 99800
   }
 }
