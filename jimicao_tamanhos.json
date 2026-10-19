@@ -35,9 +35,6 @@
   "pegasus_dl_v1.11.0.elf": {
     "size": 20612136
   },
-  "pldmgr_v0.6.1.elf": {
-    "size": 3484120
-  },
   "ps5-self-pager-full-system_v1.2.elf": {
     "size": 110848
   },
@@ -73,5 +70,8 @@
   },
   "ps5vr-helper_v1.3.0.elf": {
     "size": 119208
+  },
+  "pldmgr_v0.6.3.elf": {
+    "size": 2795992
   }
 }
