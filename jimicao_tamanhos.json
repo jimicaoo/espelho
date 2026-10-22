@@ -47,9 +47,6 @@
   "ps5-self-pager-system-common-lib_v1.2.elf": {
     "size": 110760
   },
-  "shadowmountplus1.7-beta5fix1.elf": {
-    "size": 2498376
-  },
   "webkit-autoloader-installer_v0.6.1.elf": {
     "size": 3556608
   },
@@ -73,5 +70,8 @@
   },
   "pldmgr_v0.6.3.elf": {
     "size": 2795992
+  },
+  "shadowmountplus.elf": {
+    "size": 2517288
   }
 }
