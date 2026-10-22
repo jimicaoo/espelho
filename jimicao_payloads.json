@@ -15,8 +15,8 @@
     {
       "id": "shadowmountplus",
       "name": "Shadow Mount Plus",
-      "filename": "shadowmountplus.elf",
-      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/shadowmountplus.elf",
+      "filename": "shadowmountplus_v1.7beta7.elf",
+      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/shadowmountplus_v1.7beta7.elf",
       "source": "https://github.com/drakmor/ShadowMountPlus/releases",
       "source_direct": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta7/shadowmountplus.elf",
       "version": "1.7beta7",
