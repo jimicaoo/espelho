@@ -116,15 +116,15 @@
     {
       "id": "host-psm-relapse-en",
       "name": "Host PSM ReLapse (en)",
-      "filename": "Host-PSM-ReLapse-v1.4.0-instala-host-en.elf",
-      "url": "https://jimicaoo.github.io/espelho/atualizados/Host-PSM-ReLapse-v1.4.0-instala-host-en.elf",
+      "filename": "Host-PSM-ReLapse-v1.4.1-instala-host-en.elf",
+      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/Host-PSM-ReLapse-v1.4.1-instala-host-en.elf",
       "source": "https://github.com/ps4macedo/ps51360/releases",
-      "source_direct": "https://github.com/ps4macedo/ps51360/releases/download/relapse-v1.4.0/Host-PSM-ReLapse-v1.4.0-instala-host-en.elf",
+      "source_direct": "https://github.com/ps4macedo/ps51360/releases/download/relapse-v1.4.1/Host-PSM-ReLapse-v1.4.1-instala-host-en.elf",
       "description": "English version of the Relapse host that requires an active connection, which may not have internet (firmware 7.00 to 13.60).",
-      "version": "relapse-v1.4.0",
-      "last_update": "2026-10-05",
+      "version": "relapse-v1.4.1",
+      "last_update": "2026-10-23",
       "category": "Webkit",
-      "checksum": "4691127b390b69c0156b38251e77606b36804f6370aeb3479a6f404919872420",
+      "checksum": "fbf1ba247a4eb73d6da57179a30ce9696abc13a662cd5828d1715fee73ccf4cb",
       "author": "ps4macedo"
     },
     {
