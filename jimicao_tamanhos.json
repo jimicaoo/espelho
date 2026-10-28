@@ -5,9 +5,6 @@
   "Host-PSM-ReLapse-v1.4.0-instala-host-en.elf": {
     "size": 2213200
   },
-  "Host-PSM-ReLapse-v1.4.0-instala-host-pt.elf": {
-    "size": 2213200
-  },
   "LegacyJB_v1.2.1.elf": {
     "size": 493464
   },
@@ -73,5 +70,8 @@
   },
   "webkit-autoloader-installer_v0.6.2.elf": {
     "size": 3900672
+  },
+  "Host-PSM-ReLapse-v1.4.1-instala-host-pt.elf": {
+    "size": 2868560
   }
 }
