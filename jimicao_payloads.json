@@ -15,14 +15,14 @@
     {
       "id": "shadowmountplus",
       "name": "Shadow Mount Plus",
-      "filename": "shadowmountplus_v1.7beta7.elf",
-      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/shadowmountplus_v1.7beta7.elf",
+      "filename": "shadowmountplus.elf",
+      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/shadowmountplus.elf",
       "source": "https://github.com/drakmor/ShadowMountPlus/releases",
-      "source_direct": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta7/shadowmountplus.elf",
-      "version": "1.7beta7",
-      "last_update": "2026-10-21",
+      "source_direct": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta9/shadowmountplus.elf",
+      "version": "1.7beta9",
+      "last_update": "2026-10-27",
       "category": "Ferramentas e utilitários",
-      "checksum": "a8f9d7f76e8749912508ade0cd5c78076b5bbf1271813c78c80c3d3d9d4777ee"
+      "checksum": "928a5a7e33d2801c1c14a5ed8ad83fcab07957ba3a5daccd382dba67d408b3e2"
     },
     {
       "id": "onionhen",
