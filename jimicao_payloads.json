@@ -292,8 +292,8 @@
     {
       "id": "ps5vr-helper",
       "name": "PS5VR Helper",
-      "filename": "ps5vr-helper_v1.3.0.elf",
-      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/ps5vr-helper_v1.3.0.elf",
+      "filename": "ps5vr-helper.elf",
+      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/ps5vr-helper.elf",
       "version": "v1.3.0",
       "last_update": "2026-10-17",
       "checksum": "540f29d7c648921172a2017369d926861b61131c07a9457ac4bb98fab0e49985",
