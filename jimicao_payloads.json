@@ -298,6 +298,13 @@
       "last_update": "2026-10-17",
       "checksum": "540f29d7c648921172a2017369d926861b61131c07a9457ac4bb98fab0e49985",
       "author": "theghostonline"
+    },
+    {
+      "id": "game-updater",
+      "name": "game-updater",
+      "filename": "game-updater.elf",
+      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/game-updater.elf",
+      "checksum": "3a21c41c901c29536e3e1a303861f8d4000c76957f52ea482eff8220d125759c"
     }
   ]
 }
