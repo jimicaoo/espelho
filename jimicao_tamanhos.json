@@ -62,9 +62,6 @@
   "pldmgr_v0.6.3.elf": {
     "size": 2795992
   },
-  "shadowmountplus.elf": {
-    "size": 3542864
-  },
   "webkit-autoloader-installer_v0.6.2.elf": {
     "size": 3900672
   },
@@ -73,5 +70,8 @@
   },
   "Host-PSM-ReLapse-v1.4.1-instala-host-en.elf": {
     "size": 2868560
+  },
+  "shadowmountplus.elf": {
+    "size": 3580320
   }
 }
