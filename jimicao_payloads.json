@@ -301,9 +301,9 @@
     },
     {
       "id": "game-updater",
-      "name": "game-updater",
-      "filename": "game-updater.elf",
-      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/game-updater.elf",
+      "name": "Game Updater",
+      "filename": "game-updater_v1.1.2.elf",
+      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/game-updater_v1.1.2.elf",
       "checksum": "3a21c41c901c29536e3e1a303861f8d4000c76957f52ea482eff8220d125759c"
     }
   ]
