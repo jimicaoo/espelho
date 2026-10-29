@@ -56,9 +56,6 @@
   "garlic-savemgr_v1.13.3.elf": {
     "size": 9741656
   },
-  "ps5vr-helper_v1.3.0.elf": {
-    "size": 119208
-  },
   "pldmgr_v0.6.3.elf": {
     "size": 2795992
   },
@@ -73,5 +70,8 @@
   },
   "shadowmountplus.elf": {
     "size": 3580320
+  },
+  "ps5vr-helper.elf": {
+    "size": 135512
   }
 }
