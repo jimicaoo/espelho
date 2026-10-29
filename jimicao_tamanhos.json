@@ -73,5 +73,8 @@
   },
   "ps5vr-helper_v1.3.3.elf": {
     "size": 135512
+  },
+  "game-updater.elf": {
+    "size": 9002008
   }
 }
