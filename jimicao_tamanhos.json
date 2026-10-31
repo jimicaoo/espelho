@@ -79,5 +79,8 @@
   },
   "kstuff1.13-fpkg-dr-test8-rest-fast.elf": {
     "size": 1845320
+  },
+  "byepervisor_reborn.elf": {
+    "size": 177256
   }
 }
