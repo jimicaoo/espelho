@@ -314,14 +314,6 @@
       "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/astrobotvr2_v1.1.1.elf",
       "version": "v1.1.1",
       "checksum": "e8ec1b484518bea2a7ceb4db21f7094ab6f3811f4db3586e1f2ccdcecd8f3186"
-    },
-    {
-      "id": "byepervisor_reborn",
-      "name": "Byepervisor Reborn",
-      "filename": "byepervisor_reborn_v1.0.elf",
-      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/byepervisor_reborn_v1.0.elf",
-      "version": "v1.0",
-      "checksum": "a8fa2970f55cd29454211f618aa3145341da7959b4d15a60b8f665cd4a8b112d"
     }
   ]
 }
