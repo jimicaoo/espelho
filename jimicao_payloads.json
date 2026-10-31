@@ -309,9 +309,10 @@
     },
     {
       "id": "astrobotvr2",
-      "name": "astrobotvr2",
-      "filename": "astrobotvr2.elf",
-      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/astrobotvr2.elf",
+      "name": "Astro Bot VR2",
+      "filename": "astrobotvr2_v1.1.1.elf",
+      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/astrobotvr2_v1.1.1.elf",
+      "version": "v1.1.1",
       "checksum": "e8ec1b484518bea2a7ceb4db21f7094ab6f3811f4db3586e1f2ccdcecd8f3186"
     }
   ]
