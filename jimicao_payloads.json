@@ -96,7 +96,7 @@
       "filename": "kstuff1.13-fpkg-dr-test8-rest-fast.elf",
       "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/kstuff1.13-fpkg-dr-test8-rest-fast.elf",
       "description": "Realiza patches de kernel em userland para PS5, com suporte a FPKG até a versão 11.60.",
-      "version": "v1.13-dr-test6",
+      "version": "v1.13-dr-test8",
       "category": "Sistema",
       "author": "Drakmor"
     },
