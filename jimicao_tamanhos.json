@@ -20,9 +20,6 @@
   "game-compressor_v1.0.4.elf": {
     "size": 1289424
   },
-  "kstuff-fpkg-1.13-dr-test6.elf": {
-    "size": 1818680
-  },
   "nanoDNS_v0.4.elf": {
     "size": 132352
   },
@@ -79,5 +76,8 @@
   },
   "shadowmountplus.elf": {
     "size": 3614944
+  },
+  "kstuff1.13-fpkg-dr-test8-rest-fast.elf": {
+    "size": 1845320
   }
 }
