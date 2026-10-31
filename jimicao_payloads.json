@@ -306,6 +306,13 @@
       "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/game-updater_v1.1.2.elf",
       "version": "v1.1.2",
       "checksum": "3a21c41c901c29536e3e1a303861f8d4000c76957f52ea482eff8220d125759c"
+    },
+    {
+      "id": "astrobotvr2",
+      "name": "astrobotvr2",
+      "filename": "astrobotvr2.elf",
+      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/astrobotvr2.elf",
+      "checksum": "e8ec1b484518bea2a7ceb4db21f7094ab6f3811f4db3586e1f2ccdcecd8f3186"
     }
   ]
 }
