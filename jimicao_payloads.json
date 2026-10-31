@@ -316,10 +316,11 @@
       "checksum": "e8ec1b484518bea2a7ceb4db21f7094ab6f3811f4db3586e1f2ccdcecd8f3186"
     },
     {
-      "id": "byepervisor_reborn_1160_v1.0",
-      "name": "byepervisor_reborn_1160_v1.0",
+      "id": "byepervisor_reborn",
+      "name": "Byepervisor Reborn 11.60",
       "filename": "byepervisor_reborn_1160_v1.0.elf",
       "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/byepervisor_reborn_1160_v1.0.elf",
+      "version": "v1.0",
       "checksum": "b906cc431c6b2332e4a4cfdc584ecc385389f97e486342f6525135b19144f1e8"
     }
   ]
