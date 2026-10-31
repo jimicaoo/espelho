@@ -76,5 +76,8 @@
   },
   "game-updater_v1.1.2.elf": {
     "size": 9002008
+  },
+  "astrobotvr2.elf": {
+    "size": 470304
   }
 }
