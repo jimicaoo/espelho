@@ -317,9 +317,10 @@
     },
     {
       "id": "byepervisor_reborn",
-      "name": "byepervisor_reborn",
-      "filename": "byepervisor_reborn.elf",
-      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/byepervisor_reborn.elf",
+      "name": "Byepervisor Reborn",
+      "filename": "byepervisor_reborn_v1.0.elf",
+      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/byepervisor_reborn_v1.0.elf",
+      "version": "v1.0",
       "checksum": "a8fa2970f55cd29454211f618aa3145341da7959b4d15a60b8f665cd4a8b112d"
     }
   ]
