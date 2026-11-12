@@ -53,9 +53,6 @@
   "pldmgr_v0.6.3.elf": {
     "size": 2795992
   },
-  "webkit-autoloader-installer_v0.6.2.elf": {
-    "size": 3900672
-  },
   "Host-PSM-ReLapse-v1.4.1-instala-host-pt.elf": {
     "size": 2868560
   },
@@ -82,5 +79,8 @@
   },
   "ProsperoMgr.elf": {
     "size": 9619040
+  },
+  "webkit-autoloader-installer_v0.7.1.elf": {
+    "size": 2082048
   }
 }
