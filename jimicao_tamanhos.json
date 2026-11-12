@@ -8,9 +8,6 @@
   "OnionHEN_v0.9.0.elf": {
     "size": 4676224
   },
-  "ProsperoMgr_v1.1.elf": {
-    "size": 8841088
-  },
   "apr_emu_updater_v2.0.6.elf": {
     "size": 493456
   },
@@ -82,5 +79,8 @@
   },
   "byepervisor_reborn_1160_v1.0.elf": {
     "size": 206000
+  },
+  "ProsperoMgr.elf": {
+    "size": 9619040
   }
 }
