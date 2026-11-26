@@ -18,11 +18,11 @@
       "filename": "shadowmountplus.elf",
       "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/shadowmountplus.elf",
       "source": "https://github.com/drakmor/ShadowMountPlus/releases",
-      "source_direct": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta11/shadowmountplus.elf",
-      "version": "1.7beta11",
-      "last_update": "2026-10-29",
+      "source_direct": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta12/shadowmountplus.elf",
+      "version": "1.7beta12",
+      "last_update": "2026-11-08",
       "category": "Ferramentas e utilitários",
-      "checksum": "08c843018750bef013fe3a4de5f80c5c9738c6c2dafa2406e6b6e68d7585f3da"
+      "checksum": "8755172ec9bef1bff5453ea75606e0caf7c41b5963f94f5a1087e7e8c6d9b1bd"
     },
     {
       "id": "onionhen",
