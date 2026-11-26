@@ -62,9 +62,6 @@
   "astrobotvr2_v1.1.1.elf": {
     "size": 470304
   },
-  "shadowmountplus.elf": {
-    "size": 3614944
-  },
   "kstuff1.13-fpkg-dr-test8-rest-fast.elf": {
     "size": 1845320
   },
@@ -82,5 +79,8 @@
   },
   "webkit-autoloader-installer_v0.8.4.elf": {
     "size": 1885440
+  },
+  "shadowmountplus.elf": {
+    "size": 3626576
   }
 }
