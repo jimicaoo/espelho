@@ -71,9 +71,6 @@
   "byepervisor_reborn_1160_v1.0.elf": {
     "size": 206000
   },
-  "ProsperoMgr.elf": {
-    "size": 9619040
-  },
   "webkit-autoloader-installer_v0.7.1.elf": {
     "size": 2082048
   },
@@ -82,5 +79,8 @@
   },
   "Host-PSM-ReLapse-v1.5.2-instala-host-pt.elf": {
     "size": 2131280
+  },
+  "ProsperoMgr.elf": {
+    "size": 9717896
   }
 }
