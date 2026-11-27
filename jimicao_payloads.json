@@ -93,8 +93,8 @@
     {
       "id": "kstuff-fpkg",
       "name": "Kstuff FPKG",
-      "filename": "kstuff1.13-fpkg-dr-test8-rest-fast.elf",
-      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/kstuff1.13-fpkg-dr-test8-rest-fast.elf",
+      "filename": "kstuff-1.15-dr-test3.elf",
+      "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/kstuff-1.15-dr-test3.elf",
       "description": "Realiza patches de kernel em userland para PS5, com suporte a FPKG até a versão 11.60.",
       "version": "v1.13-dr-test8",
       "category": "Sistema",
