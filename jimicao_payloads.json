@@ -95,8 +95,8 @@
       "name": "Kstuff FPKG",
       "filename": "kstuff-1.15-dr-test3.elf",
       "url": "https://github.com/jimicaoo/espelho/raw/main/atualizados/kstuff-1.15-dr-test3.elf",
-      "description": "Realiza patches de kernel em userland para PS5, com suporte a FPKG até a versão 11.60.",
-      "version": "v1.13-dr-test8",
+      "description": "Realiza patches de kernel em userland para PS5, com suporte a FPKG.",
+      "version": "v1.15-dr-test3",
       "category": "Sistema",
       "author": "Drakmor"
     },
