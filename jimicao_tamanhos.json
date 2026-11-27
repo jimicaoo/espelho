@@ -62,9 +62,6 @@
   "astrobotvr2_v1.1.1.elf": {
     "size": 470304
   },
-  "kstuff1.13-fpkg-dr-test8-rest-fast.elf": {
-    "size": 1845320
-  },
   "byepervisor_reborn_1160_v1.0.elf": {
     "size": 206000
   },
@@ -82,5 +79,8 @@
   },
   "shadowmountplus.elf": {
     "size": 3626576
+  },
+  "kstuff-1.15-dr-test3.elf": {
+    "size": 1927240
   }
 }
